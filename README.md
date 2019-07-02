@@ -97,4 +97,3 @@ Now, run the messenger_client.py by mentioning your server address as a sys argu
 ```
 python messenger_server.py 127.0.0.1
 ```
-For more info about this application, read my blog post at [Tech Raj Blog](https://blog.techraj156.com/).
